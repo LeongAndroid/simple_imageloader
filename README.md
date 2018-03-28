@@ -23,3 +23,12 @@ SimpleImageLoader.getInstance().displayImage(myImageView, "http://www.xxx/myimag
 ```    
 
 
+- - -
+March 28, 2018 1:43 PM
+将工程代码结构修改成Android studio的结构。
+### 学习图片加载ImageLoader框架开发思路
+- 缓存策略
+- 本地缓存DisLruCache基本用法
+- 策略模式
+- 链式调用
+

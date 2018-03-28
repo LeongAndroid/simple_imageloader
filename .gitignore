@@ -1,8 +1,9 @@
-*.project
-*.classpath
-bin/
-gen/
-*.DS_Store
-*/bin/
-*/gen/
-.settings/
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
